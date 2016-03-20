@@ -1,0 +1,19 @@
+﻿@using DataLib
+@model MvcApplication18.Controllers.HomePageViewModel
+
+
+<table>
+    <tr>
+        <th>First Name</th>
+        <th>Last Name</th>
+        <th>Car Count</th>
+    </tr>
+    @foreach (People person in Model.People)
+    {
+        <tr>
+            <td>@person.FirstName</td>
+            <td>@person.LastName</td>
+            <td>@person.Cars.Count</td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,6 @@
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication18\DataLib\bin\Debug\DataLib.dll.config
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication18\DataLib\bin\Debug\DataLib.dll
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication18\DataLib\bin\Debug\DataLib.pdb
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication18\DataLib\obj\Debug\DataLib.csprojResolveAssemblyReference.cache
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication18\DataLib\obj\Debug\DataLib.dll
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication18\DataLib\obj\Debug\DataLib.pdb
